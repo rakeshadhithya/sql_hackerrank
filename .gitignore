@@ -1,0 +1,9 @@
+# Editor and OS junk
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Temp files
+*.log
+*.bak
+*.tmp
