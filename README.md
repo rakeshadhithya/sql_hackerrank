@@ -31,4 +31,5 @@ Each file inside is named as:
 | 2025-08-01 | Advance Select          | CASE, CTE, RECURSIVE CTE, WINDOW, PIVOT                                                                                                                                        |
 | 2025-08-02 | Aggregation             | COUNT, MIN, MAX, AVG, POWER, SQRT, TRUNCATE, FORMAT, ROUND, FLOOR, CEIL, REPLACE, CAST, CO-ORDINATES, JOIN, SUBQUERY, CTE                                                      |
 | 2025-08-03 | Aggregation, Basic Join | MEDIAN, WINDOW FUNCTION, CTE, INNER JOIN                                                                                                                                       |
-| 2025-08-02 | Basic Join              | CARTESIAN JOIN, CO-RELATED SCALER SUB-QUERY, JOIN ON CONDITION, JOINING MULTIPLE TABLES, GROUP BY, HAVING(COUNT), ORDER BY(COUNT)                                              |
+| 2025-08-04 | Basic Join              | CARTESIAN JOIN, CO-RELATED SCALER SUB-QUERY, JOIN ON CONDITION, JOINING MULTIPLE TABLES, GROUP BY, HAVING(COUNT), ORDER BY(COUNT)                                              |
+| 2025-08-05 | Basic Join              | FILTERING, LEFT JOIN, CTES, JOINING A COVERTED TABLE NOT DIRECT TABLE                                                                                                          |
