@@ -33,3 +33,4 @@ Each file inside is named as:
 | 2025-08-03 | Aggregation, Basic Join | MEDIAN, WINDOW FUNCTION, CTE, INNER JOIN                                                                                                                                       |
 | 2025-08-04 | Basic Join              | CARTESIAN JOIN, CO-RELATED SCALER SUB-QUERY, JOIN ON CONDITION, JOINING MULTIPLE TABLES, GROUP BY, HAVING(COUNT), ORDER BY(COUNT)                                              |
 | 2025-08-05 | Basic Join              | FILTERING, LEFT JOIN, CTES, JOINING A COVERTED TABLE NOT DIRECT TABLE                                                                                                          |
+| 2025-08-06 | Basic Join              | WINDOW FUNCTION, CO-RELATED SUBQUERY, JOIN COMBINATION                                                                                                                         |
