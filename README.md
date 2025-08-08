@@ -34,3 +34,5 @@ Each file inside is named as:
 | 2025-08-04 | Basic Join              | CARTESIAN JOIN, CO-RELATED SCALER SUB-QUERY, JOIN ON CONDITION, JOINING MULTIPLE TABLES, GROUP BY, HAVING(COUNT), ORDER BY(COUNT)                                              |
 | 2025-08-05 | Basic Join              | FILTERING, LEFT JOIN, CTES, JOINING A COVERTED TABLE NOT DIRECT TABLE                                                                                                          |
 | 2025-08-06 | Basic Join              | WINDOW FUNCTION, CO-RELATED SUBQUERY, JOIN COMBINATION                                                                                                                         |
+| 2025-08-07 | Advance Join            | DATE FUNCTIONS, WINDOW_FUNCTION, CTE                                                                                                                                           |
+| 2025-08-08 | Advance Join            | MULTIPLE TABLE, SAME TABLE JOIN                                                                                                                                                |
