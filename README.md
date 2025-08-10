@@ -36,3 +36,4 @@ Each file inside is named as:
 | 2025-08-06 | Basic Join              | WINDOW FUNCTION, CO-RELATED SUBQUERY, JOIN COMBINATION                                                                                                                         |
 | 2025-08-07 | Advance Join            | DATE FUNCTIONS, WINDOW_FUNCTION, CTE                                                                                                                                           |
 | 2025-08-08 | Advance Join            | MULTIPLE TABLE, SAME TABLE JOIN                                                                                                                                                |
+| 2025-08-10 | Advance Join            | JOIN, UNION, GROUP BY HAVING                                                                                                                                                   |
