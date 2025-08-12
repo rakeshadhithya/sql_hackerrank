@@ -35,5 +35,6 @@ Each file inside is named as:
 | 2025-08-05 | Basic Join              | FILTERING, LEFT JOIN, CTES, JOINING A COVERTED TABLE NOT DIRECT TABLE                                                                                                          |
 | 2025-08-06 | Basic Join              | WINDOW FUNCTION, CO-RELATED SUBQUERY, JOIN COMBINATION                                                                                                                         |
 | 2025-08-07 | Advance Join            | DATE FUNCTIONS, WINDOW_FUNCTION, CTE                                                                                                                                           |
-| 2025-08-08 | Advance Join            | MULTIPLE TABLE, SAME TABLE JOIN                                                                                                                                                |
-| 2025-08-10 | Advance Join            | JOIN, UNION, GROUP BY HAVING                                                                                                                                                   |
+| 2025-08-08 | Advance Join            | MULTI JOIN, SELF JOIN                                                                                                                                                          |
+| 2025-08-10 | Advance Join            | SELF JOIN, UNION, GROUP BY HAVING                                                                                                                                              |
+| 2025-08-12 | Advance Join            | AGGREGATED JOIN, CO-RELATED SUBQUERIES, DATE FUNCTIONS                                                                                                                         |
