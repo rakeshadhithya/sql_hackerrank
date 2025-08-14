@@ -38,3 +38,4 @@ Each file inside is named as:
 | 2025-08-08 | Advance Join            | MULTI JOIN, SELF JOIN                                                                                                                                                          |
 | 2025-08-10 | Advance Join            | SELF JOIN, UNION, GROUP BY HAVING                                                                                                                                              |
 | 2025-08-12 | Advance Join            | AGGREGATED JOIN, CO-RELATED SUBQUERIES, DATE FUNCTIONS                                                                                                                         |
+| 2025-08-14 | Alternative Queries     | SESSION VARIABLES, RECURSIVE CTE, REPEAT FUNCTION, GROUP_CONCAT FUNCTION                                                                                                       |
