@@ -16,7 +16,7 @@ GROUP BY X,Y
 HAVING COUNT(*) > 1)
 ORDER BY X
 /*
-NOTE: you cannot combine <= in first part because you’ll get (X = Y) pairs even if they occur once
+NOTE: you cannot combine <= in single part because you’ll get (X = Y) pairs even if they occur once
 ALTERNATE FOR JOINING, USE Co related Subquery
 (SELECT f1.X, f1.Y
 FROM Functions f1
