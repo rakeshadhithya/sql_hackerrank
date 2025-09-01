@@ -10,7 +10,7 @@ SELECT *, ROW_NUMBER() OVER(ORDER BY End_Date) AS rn
 FROM Projects
 ),
 grouped AS(
-SELECT *, DATE_SUB(End_Date, INTERVAL rn DAY) AS grp
+SELECT *, DATE_SUB(End_Date, INTERVAL rn DAY) AS grp -- '2025-08-29', INTERVAL 7 DAY
 FROM ranked
 )
 SELECT MIN(Start_Date) AS sd, MAX(End_Date) AS ed
